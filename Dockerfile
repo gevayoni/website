@@ -1,2 +1,2 @@
 # pulling image 
-$docker pull nginx
+From docker pull nginx
