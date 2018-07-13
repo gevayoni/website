@@ -1,2 +1,2 @@
-# pulling image 
-From docker pull nginx
+FROM nginx
+COPY static-html-directory /usr/share/nginx/html
